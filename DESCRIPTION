@@ -1,0 +1,10 @@
+Package: mypackage
+Type: 
+Title: Relationship between import and export as percentage of GDP
+Version: 0.1.0
+Author: Alex Andrew Akubu
+Maintainer: Alex Andrew <alexandrew.akubu@studenti.unimi.it>
+Description: This analysis the relationship between imports and export as percentage of GDP of Italy from 2000-2018 .
+License: GPL-1
+Encoding: UTF-8
+LazyData: true
