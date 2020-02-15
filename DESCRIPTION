@@ -1,5 +1,5 @@
 Package: mypackage
-Type: 
+Type: Package
 Title: Relationship between import and export as percentage of GDP
 Version: 0.1.0
 Author: Alex Andrew Akubu
@@ -8,3 +8,6 @@ Description: This analysis the relationship between imports and export as percen
 License: GPL-1
 Encoding: UTF-8
 LazyData: true
+Imports: ggplot2
+RoxygenNote: 7.0.2
+StagedInstall: no
